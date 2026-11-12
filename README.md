@@ -5,7 +5,7 @@ A frontend prototype that redesigns the Muhammad Ali Jinnah University (MAJU) st
 > **Unofficial student project.** Made for a vibe-coding competition. Not affiliated with or endorsed by MAJU. **Every student record in it is fictional demo data.**
 
 **Team:** Zainab Arif & Adan Shifa
-**Live link:** _[Vercel URL, once approved]_
+**Live link:** https://vibecode-psi-eight.vercel.app
 
 ---
 
